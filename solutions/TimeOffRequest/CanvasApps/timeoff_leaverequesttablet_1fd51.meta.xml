@@ -1,11 +1,11 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <CanvasApp xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <Name>timeoff_leaverequesttablet_1fd51</Name>
-  <AppVersion>2020-10-23T03:08:30Z</AppVersion>
+  <AppVersion>2020-10-23T03:26:59Z</AppVersion>
   <Status>Ready</Status>
   <CreatedByClientVersion>3.20101.20.0</CreatedByClientVersion>
   <MinClientVersion>3.20101.20.0</MinClientVersion>
-  <Tags>{"primaryDeviceWidth":"1366","primaryDeviceHeight":"768","sienaVersion":"00681a15-173c-4141-bb9b-3bcffe7b4b4d","deviceCapabilities":"","supportsPortrait":"false","supportsLandscape":"true","primaryFormFactor":"Tablet","publisherVersion":"3.20101.20","minimumRequiredApiVersion":"2.2.0","hasComponent":"false","hasUnlockedComponent":"false","isUnifiedRootApp":"false"}</Tags>
+  <Tags>{"primaryDeviceWidth":"1366","primaryDeviceHeight":"768","sienaVersion":"89c295d1-6cd6-4099-9707-ddf9e82ecb87","deviceCapabilities":"","supportsPortrait":"false","supportsLandscape":"true","primaryFormFactor":"Tablet","publisherVersion":"3.20101.20","minimumRequiredApiVersion":"2.2.0","hasComponent":"false","hasUnlockedComponent":"false","isUnifiedRootApp":"false"}</Tags>
   <IsCdsUpgraded>0</IsCdsUpgraded>
   <GalleryItemId xsi:nil="true"></GalleryItemId>
   <BackgroundColor>rgba(0, 176, 240, 1)</BackgroundColor>
