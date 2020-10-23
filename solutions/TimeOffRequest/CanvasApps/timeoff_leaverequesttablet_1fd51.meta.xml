@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CanvasApp xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Name>timeoff_leaverequesttablet_1fd51</Name>
+  <AppVersion>2020-10-22T22:32:25Z</AppVersion>
+  <Status>Ready</Status>
+  <CreatedByClientVersion>3.20094.24.0</CreatedByClientVersion>
+  <MinClientVersion>3.20094.24.0</MinClientVersion>
+  <Tags>{"primaryDeviceWidth":"1366","primaryDeviceHeight":"768","sienaVersion":"20201022T223225Z-3.20094.24.0","deviceCapabilities":"","supportsPortrait":"false","supportsLandscape":"true","primaryFormFactor":"Tablet","publisherVersion":"3.20094.24","minimumRequiredApiVersion":"2.2.0","hasComponent":"false","hasUnlockedComponent":"false","isUnifiedRootApp":"false"}</Tags>
+  <IsCdsUpgraded>0</IsCdsUpgraded>
+  <GalleryItemId xsi:nil="true"></GalleryItemId>
+  <BackgroundColor>rgba(0, 176, 240, 1)</BackgroundColor>
+  <DisplayName>Leave Request - Tablet</DisplayName>
+  <Description>Submit a vacation request for manager approval. Select date ranges, add notes and manage your time off.</Description>
+  <CommitMessage xsi:nil="true"></CommitMessage>
+  <Publisher xsi:nil="true"></Publisher>
+  <AuthorizationReferences xsi:nil="true"></AuthorizationReferences>
+  <ConnectionReferences>{"6f72918a-7921-fa64-14bf-78187ad1b172":{"id":"/providers/microsoft.powerapps/apis/shared_office365users","displayName":"Office 365 Users","iconUri":"https://connectoricons-prod.azureedge.net/releases/v1.0.1402/1.0.1402.2163/office365users/icon.png","dataSources":["Office365Users"],"dependencies":[],"dependents":[],"parameterHints":{},"isOnPremiseConnection":false,"dataSets":{},"apiTier":"Standard"},"3d08df1a-c8f0-4fc6-8115-bc671ed3b356":{"id":"/providers/microsoft.powerapps/apis/shared_office365","displayName":"Office 365 Outlook","iconUri":"https://connectoricons-prod.azureedge.net/releases/v1.0.1404/1.0.1404.2172/office365/icon.png","dataSources":["Office365Outlook"],"dependencies":[],"dependents":[],"parameterHints":{},"isOnPremiseConnection":false,"dataSets":{},"apiTier":"Standard"},"4ad80c8e-0573-40ab-965f-fcc70a1dc642":{"id":"/providers/microsoft.powerapps/apis/shared_excel","displayName":"Excel","iconUri":"https://connectoricons-prod.azureedge.net/releases/v1.0.1404/1.0.1404.2172/excel/icon.png","dataSources":["Leave","Holidays","Balance"],"dependencies":["0f7c6572-ae3e-47b7-abd0-1441f7024a8b"],"dependents":[],"parameterHints":{"0f7c6572-ae3e-47b7-abd0-1441f7024a8b":{"value":"fileSource"}},"isOnPremiseConnection":false,"dataSets":{"b!qU4Ma4E76E-NP4OOX_J512RlQeoNa2pDo5VO8RNpKyQ4slWN4iNQRLMW9gBMGLW-.01CEFJGAL34WKAQZ7RUNEJIUIHQSAYQRFJ":{"dataSources":{"Leave":{"tableName":"Leave"},"Holidays":{"tableName":"Holidays"},"Balance":{"tableName":"Balance"}}}},"apiTier":"Standard"},"0f7c6572-ae3e-47b7-abd0-1441f7024a8b":{"id":"/providers/microsoft.powerapps/apis/shared_onedriveforbusiness","displayName":"OneDrive for Business","iconUri":"https://connectoricons-prod.azureedge.net/releases/v1.0.1407/1.0.1407.2182/onedriveforbusiness/icon.png","dataSources":[],"dependencies":[],"dependents":["4ad80c8e-0573-40ab-965f-fcc70a1dc642"],"parameterHints":{},"isOnPremiseConnection":false,"dataSets":{},"apiTier":"Standard"}}</ConnectionReferences>
+  <DatabaseReferences>{}</DatabaseReferences>
+  <CanConsumeAppPass>0</CanConsumeAppPass>
+  <BypassConsent>0</BypassConsent>
+  <AdminControlBypassConsent>0</AdminControlBypassConsent>
+  <EmbeddedApp xsi:nil="true"></EmbeddedApp>
+  <IntroducedVersion>1.0</IntroducedVersion>
+  <CdsDependencies>{"cdsdependencies":[]}</CdsDependencies>
+  <BackgroundImageUri>/CanvasApps/timeoff_leaverequesttablet_1fd51_BackgroundImageUri</BackgroundImageUri>
+  <DocumentUri>/CanvasApps/timeoff_leaverequesttablet_1fd51_DocumentUri.msapp</DocumentUri>
+</CanvasApp>
